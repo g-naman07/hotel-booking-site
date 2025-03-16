@@ -5,6 +5,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
   }
   
   .navContainer{
@@ -32,6 +34,11 @@
   display: flex;
   width: 50%;
   color: aliceblue;
+  transition: transform 0.2s ease;
+}
+
+.name:hover {
+  transform: scale(1.05);
 }
 
   .logo{
@@ -51,4 +58,10 @@
     display: flex;
     place-items: center;
     gap: 3px;
+    transition: all 0.3s ease;
+  }
+
+  .navButton:hover {
+    background-color: #f0f0f0;
+    transform: translateY(-2px);
   }
