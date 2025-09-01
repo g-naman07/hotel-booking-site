@@ -195,8 +195,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Naman Gupta** - Full Stack Developer
 
 - **GitHub**: [@g-naman07](https://github.com/g-naman07)
-- **LinkedIn**: [Naman Gupta](https://linkedin.com/in/naman-gupta)
-- **Portfolio**: [namangupta.dev](https://namangupta.dev)
+
 
 ## 🙏 **Acknowledgments**
 
